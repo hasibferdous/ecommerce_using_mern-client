@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <div>
 {/*NAVBAR - 01*/}
-  <div className="navbar bg-stone-300">
+  <div className="navbar bg-slate-800 text-white">
   <div className="navlogo w-12 h-12">
                         <Link to="/"> <img src="https://cdn-icons-png.flaticon.com/512/1250/1250320.png" alt="logo" /> </Link>
                     </div>
